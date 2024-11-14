@@ -25,18 +25,18 @@ DGS-SLAM addresses these challenges by integrating a **robust filtering process*
 
 The DGS-SLAM pipeline incorporates Gaussian Splatting, robust filtering, keyframe management, and loop-aware optimization. Below is a visual representation of the process:
 
-![Pipeline](./Fig/overview.png)  
+![Pipeline](./assets/overview.png)  
 
 
 ---
 
 ## 🎥 Results
 
-DGS-SLAM demonstrates state-of-the-art performance in dynamic environments. Check out the example videos below:
+DGS-SLAM demonstrates state-of-the-art performance in dynamic environments.  
+Check out the example videos below:
 
-[![Watch Video](https://img.youtube.com/vi/Mq3qZTTcN3E/0.jpg)](https://youtu.be/Mq3qZTTcN3E)
+[![Watch Video](https://img.youtube.com/vi/Mq3qZTTcN3E/maxresdefault.jpg)](https://youtu.be/Mq3qZTTcN3E)  
 *(Click the image to watch the video on YouTube)*
-
 
 ---
 
