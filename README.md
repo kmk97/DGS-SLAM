@@ -1,4 +1,4 @@
-# DGS-SLAM: Dynamic Gaussian Splatting SLAM
+# DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environments
 
 ## Abstract
 
