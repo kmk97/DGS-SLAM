@@ -1,5 +1,7 @@
 # DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environments
 
+[![arXiv](https://img.shields.io/badge/arXiv-2411.10722-B31B1B.svg)](https://arxiv.org/abs/2411.10722)
+
 ## Abstract
 
 Dynamic Gaussian Splatting SLAM (DGS-SLAM) is the first dynamic SLAM framework built on the foundation of **Gaussian Splatting**. While recent advancements in dense SLAM have leveraged Gaussian Splatting to enhance scene representation, most approaches assume a static environment, making them vulnerable to photometric and geometric inconsistencies caused by dynamic objects.
