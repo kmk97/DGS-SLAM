@@ -22,6 +22,9 @@ DGS-SLAM addresses these challenges by integrating a **robust filtering process*
 [➡️ Explore the Code](https://github.com/kmk97/DGS-SLAM) -->
 
 ---
+## ⚠️ Under Review
+
+This work is currently **under review**, and the code will be released soon. Stay tuned for updates!
 
 ## 📜 Pipeline Overview
 
